@@ -1,0 +1,108 @@
+{
+  "common": {
+    "for-unity": "For Unity",
+    "for-unreal": "For Unreal"
+  },
+  "meta": {
+    "title": "Mirage",
+    "description": "Mirage description",
+    "keywords": "Mirage keywords",
+    "og-title": "Mirage",
+    "og-description": "Mirage description",
+    "h1-tag": "Mirage h1-tag"
+  },
+  "header": {
+    "mosaic-platform": "Mosaic Platform",
+    "team": "Team"
+  },
+  "intro-block": {
+    "title-lg": "Build Games on a<br/>New Level: Web3",
+    "title-md": "Build Games on a<br/>New Level: Web3",
+    "title-sm": "Build Games<br/>on a New Level: Web3",
+    "subtitle-lg": "The complete Web3 game development toolkit; free and open source",
+    "subtitle-md": "The complete Web3 game development toolkit.",
+    "subtitle-sm": "The complete Web3 game development toolkit.",
+    "footer": "Download our free and open source SDK to get started."
+  },
+  "partner-block": {
+    "title": "Partnered with the best in Web3 gaming",
+    "learn-more": "Learn More",
+    "card-1": {
+      "description": "Meta Apes is a free-to-play, play-and-earn MMO strategy game. Set in a post-apocalyptic world, in which humanity has ended and a new era ruled by Apes has begun. Next on the agenda is space domination. Each pri-mate (yes, you) will have to work closely with their Gang to become the strongest Clan and win the ultimate race to space.",
+      "company": "Meta Apes PTE LTD"
+    },
+    "card-2": {
+      "description": "Find your favorite character and battle for the fate of a universe at crossroads. Starfall Arena is the first web3 MOBA with a focus on competitive gameplay and eSports. Focused on rewarding top players through community operated tournaments and prizes. Releasing December 2022 on Android.",
+      "company": "Bell Curve Labs"
+    },
+    "card-3": {
+      "description": "The first battle royale made for web3. Explore and find the right mode for you with 5 exciting game modes in this fun, fast paced mobile shooter. Or build your own map with our leading UGC tool. Available on Android and soon on iOS.",
+      "company": "Superpower Squad Games"
+    },
+    "card-4": {
+      "description": "Explore fully immersive worlds from the comfort of your phone. Multiverse focuses on high quality, interactive virtual environments and live events, including Music festivals such as Burning Man. Come Dance and explore in a new dimension!",
+      "company": "Clipo Labs"
+    }
+  },
+  "feature-block": {
+    "card-1": {
+      "title": "Launch your Web3 monetization strategy",
+      "description": "Turn any asset into an NFT and embed directly in your game, along with NFT Marketplaces, and tokens."
+    },
+    "card-2": {
+      "title": "Integrate Web3 wallets easily",
+      "description": "Let players connect Web3 wallets effortlessly for excellent UX with in-game transactions."
+    },
+    "card-3": {
+      "title": "Compatible with Unity and Unreal Engine",
+      "description": "Embed Ankr Gaming Web3 Tools directly into your gaming environment (UE coming soon)"
+    }
+  },
+  "mosaic-block": {
+    "title": "Mosaic",
+    "sub-title": "Coming Soon",
+    "notify-me": "Notify Me",
+    "description": "The most accessible game services platform for web3",
+    "feature-1": "Seamlessly convert Web2 games to Web3",
+    "feature-2": "Deploy NFT collections",
+    "feature-3": "Web3 advertising",
+    "feature-4": "In-game analytics",
+    "feature-5": "Easily support multiple chains",
+    "feature-6": "Manage token-based economies"
+  },
+  "sdk-block": {
+    "title": "Take Your Existing Game to Web3 Today",
+    "description": "Use one free SDK to give your game full blockchain, crypto, and Web3 capabilities."
+  },
+  "team-block": {
+    "title": "Our Team",
+    "card-1": {
+      "name": "Kyle Smith",
+      "position": "CEO"
+    },
+    "card-2": {
+      "name": "Taylor Shim",
+      "position": "COO"
+    },
+    "card-3": {
+      "name": "Nick Carr",
+      "position": "CMO"
+    },
+    "card-4": {
+      "name": "Ishan Vishnoi",
+      "position": "CRO"
+    }
+  },
+  "slogan-block": {
+    "title": "“Ankr's SDK and development resources were extremely helpful. We could not have built Meta Apes this fast without their help.”"
+  },
+  "conclusion-block": {
+    "title": "Let's build together",
+    "title-sm": "Get in Touch",
+    "contact-us": "Contact Us"
+  },
+  "footer": {
+    "all-rights": "©2022. All rights reserved",
+    "powered-by": "Powered by"
+  }
+}
